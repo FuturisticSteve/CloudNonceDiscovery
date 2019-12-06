@@ -11,6 +11,6 @@ This is the source code for COMSM0010 coursework
 2. Create a S3 bucket with a valid name
 
 ## Run
-'''bash
+```bash
 python3 CDN.py
-'''
+```
