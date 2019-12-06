@@ -14,3 +14,4 @@ This is the source code for COMSM0010 coursework
 ```bash
 python3 CDN.py
 ```
+In the program, you will be requested to enter bucket name, difficulty, number of instances to run and timeout peroid
