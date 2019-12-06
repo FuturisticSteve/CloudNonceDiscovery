@@ -1,5 +1,5 @@
 # CloudNonceDiscovery
-This is the source code for COMSM0010 coursework
+This is the source code for COMSM0010 coursework.
 
 ## Dependencies
 * Python 3
