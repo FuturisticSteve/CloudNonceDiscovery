@@ -16,7 +16,11 @@ enter the credential information.
 ```bash
 python3 CDN.py
 ```
-In the program, you will be requested to enter bucket name, difficulty, number of instances to run and timeout peroid. During the running, you could type in 'quit' to terminate all instances and quit the program.
+In the program, you will be requested to enter bucket name, difficulty, number of instances to run, timeout peroid and confidence. 
+
+To use the timeout and confidence specification, please type '-1' when asked to enter number of EC2 instances.
+
+During the running, you could type in 'quit' to terminate all instances and quit the program.
 
 2. Run local nonce discovery program
 ```bash
