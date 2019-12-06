@@ -15,4 +15,4 @@ enter the credential information.
 ```bash
 python3 CDN.py
 ```
-In the program, you will be requested to enter bucket name, difficulty, number of instances to run and timeout peroid.
+In the program, you will be requested to enter bucket name, difficulty, number of instances to run and timeout peroid. During the running, you could type in 'quit' to terminate all instances and quit the program.
